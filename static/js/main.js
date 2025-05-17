@@ -1,0 +1,1 @@
+// Código JavaScript transpilado (placeholder de React app)
